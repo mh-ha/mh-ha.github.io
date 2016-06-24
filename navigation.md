@@ -1,7 +1,7 @@
-# MDwiki examples
+# mh.ha's wiki
 
 [gimmick:Theme (inverse: false)](flatly)
-[gimmick:ForkMeOnGitHub](http://github.com/Dynalon/mdwiki-examples/)
-[Coffee Place](cafe/)
-[Travel blog](travel_blog/)
-[Muscle Cars](muscle_cars/)
+[gimmick:ForkMeOnGitHub](https://github.com/mh-ha/mh-ha.github.io)
+[Study](study/)
+[Research](research/)
+[CS](cs/)
