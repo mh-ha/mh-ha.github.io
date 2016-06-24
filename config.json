@@ -1,4 +1,5 @@
 {
-    "additionalFooterText": "All content and images &copy; by John Doe"
+  	"useSideMenu": true,
+    "additionalFooterText": "All content and images &copy; by John Doe",
     "title": "ACME Industries Wiki"
 }
