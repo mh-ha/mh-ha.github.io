@@ -1,5 +1,5 @@
-mh.ha's wiki
------------------------
+#mh.ha's wiki
+
 
 ##1.Study
 - Lab-ML
@@ -56,5 +56,3 @@ All websites may be freely modified and changed for your purposes. Note that som
 
   [cc]: http://creativecommons.org/licenses/
 
-#test
-- test
