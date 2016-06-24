@@ -1,5 +1,34 @@
-MDwiki example websites
+mh.ha's wiki
 -----------------------
+
+##1.Study
+- Lab-ML
+	- Pattern recognition and Machine Learning (by C. M. Bishop)
+		1. [[Intro|study/Lab-ML/Bishop/ch1.Intro]]
+- ML-DS
+	- Reinforcement Learning
+		- David Silver Lecture
+		- Sutton Book
+			- [[5.MC|study/ML-DS/Reinforcement Learning/Sutton/5.MC]]
+     
+##2.Research
+- Neural Factorization Machine Network
+
+##3.CS
+- Machine Learning
+	- Machine Learning
+	- Deep Learning
+	- Recommender System  
+- Programming
+	- Python
+		- Pandas
+- DeepMind
+
+##4.Etc
+
+
+## [[5.Reference Summary|reference summary]]
+
 
 This is a list of examples websites that are created with [MDwiki]. The full source of all the websites is available at [GitHub][githubrepo].
 
