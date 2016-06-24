@@ -1,5 +1,5 @@
-Example pages created with [MDwiki](http://www.mdwiki.info)
+wiki pages created with [MDwiki](http://www.mdwiki.info)
 
-# See <http://dynalon.github.io/mdwiki-examples/> for preview.
+# See <https://mh-ha.github.io> for preview.
 
-##test
+
